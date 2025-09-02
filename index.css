@@ -26,8 +26,13 @@ margin: 2rem auto;
 padding: 0 1rem;
 }
 h1, h2 {
-color: #222;
+color: #fff;
 }
+
+h2 {
+color: #000;
+}
+
 footer {
 background-color: #222;
 color: #fff;
